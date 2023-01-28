@@ -1,14 +1,1 @@
-if game.PlaceId == 8438158667 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/wasiszo/slideonme/main/yesnew", true))()
-end;
-if game.PlaceId == 314927855 then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/wasiszo/pillowonme/main/hub", true))()
-end
-if game.PlaceId == 7346416636 then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/wasiszo/popit/main/waza", true))()
-end
-if game.PlaceId == 2788229376 then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/wasiszo/dahud/main/yeo", true))()
-end
---universal hub
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/universalhub/main/anygame", true))()
+cancelled
